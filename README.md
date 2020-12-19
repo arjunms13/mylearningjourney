@@ -6,3 +6,4 @@ for each radio button one Label element is used
 what is label element?
 what is for attribute?
 what is for used for/?
+<label> <input>type="radio"1</label>
