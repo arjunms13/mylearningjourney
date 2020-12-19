@@ -5,3 +5,4 @@ Radio buttons are a type of input. One can use Radio buttons when only one optio
 for each radio button one Label element is used 
 what is label element?
 what is for attribute?
+what is for used for/?
