@@ -15,3 +15,14 @@ A best practice is to include for in label
 <label for="Day 1 ">
   <input id="Day 1" type="radio" name="test">Day 1
   </label>
+  
+  
+ Checkboxes are to give multiple options.
+The format is as of radio button
+
+Starts with a label and for
+input id,type,name
+
+<label for="India">
+  <input id="India" type="checkbox" name="Country">India
+  </label>
