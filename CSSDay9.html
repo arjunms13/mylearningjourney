@@ -1,0 +1,23 @@
+<!-- :root is a pseudo-class selector that matches the root element of the document, usually the html element. 
+By creating your variables in :root, they will be available globally and can be accessed from any other selector in the style sheet. -->
+
+<style>
+  :root {
+  --penguin-belly:pink;
+  }
+  
+<!--Media queries are a feature of CSS that enable webpage content to adapt to different screen sizes and resolutions.-->
+<style>
+  :root {
+    --penguin-size: 300px;
+    --penguin-skin: gray;
+    --penguin-belly: white;
+    --penguin-beak: orange;
+  }
+
+  @media (max-width: 350px) {
+    :root {
+    --penguin-size: 200px;
+    --penguin-skin: black;
+    }
+  }
